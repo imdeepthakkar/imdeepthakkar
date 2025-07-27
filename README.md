@@ -2,14 +2,19 @@
 <h3 align="center">Senior Java and FileNet Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepthakkar&label=Profile%20views&color=0e75b6&style=flat" alt="deepthakkar" />
+  <img src="https://komarev.com/ghpvc/?username=imdeepthakkar&label=Profile%20views&color=0e75b6&style=flat" alt="imdeepthakkar" />
 </p>
 
-- 🔭 I’m currently working on **enterprise-grade backend solutions**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=38BDF8&width=650&lines=Certified+IBM+FileNet+Developer"/>
+</p>
+
+
+- 🔭 I’m currently working on **enterprise-grade backend solutions in Java and IBM FileNet**
 - 🌱 I’m currently learning **AWS, DevOps, and Cloud Architecture**
 - 👯 I’m looking to collaborate on **Spring Boot & Microservices Projects**
 - 💬 Ask me about **Java, Spring Boot, FileNet, REST APIs**
-- 📫 Reach me at **abc@123.com**
+- 📫 Reach me at my **LinkedIn**
 
 ---
 
@@ -17,6 +22,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring-boot)
+![IBM FileNet](https://img.shields.io/badge/ibm-filenet?style=flat&logo=IBM+FileNet)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
@@ -27,8 +33,8 @@
 
 ### 📊 GitHub Stats:
 
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepthakkar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthakkar&layout=compact&theme=radical)
+![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdeepthakkar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdeepthakkar&layout=compact&theme=radical)
 
 ---
 
@@ -44,7 +50,7 @@
   <a href="https://linkedin.com/in/deep-thakkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/deepthakkar" target="_blank">
+  <a href="https://github.com/imdeepthakkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
