@@ -1,0 +1,34 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Run workflow manually
+  workflow_dispatch:
+  # Run workflow when pushing on main/master
+  push: {branches: ["main", "master"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+          # Options
+          user: imdeepthakkar
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: UTC
+          
+          # Include an isometric calendar plugin (similar to GitHub's contribution graph)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Include languages plugin (similar to Top Langs)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 8

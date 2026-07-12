@@ -33,16 +33,9 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Metrics:
 
-![Deep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imdeepthakkar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imdeepthakkar&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imdeepthakkar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Metrics](github-metrics.svg)
 
 ---
 
