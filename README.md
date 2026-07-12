@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **AWS, DevOps, and Cloud Architecture**
 - 👯 I’m looking to collaborate on **Spring Boot & Microservices Projects**
 - 💬 Ask me about **Java, Spring Boot, FileNet, REST APIs**
-- 📫 Reach me at my **LinkedIn**
+- 📫 Reach me at my **[LinkedIn](https://linkedin.com/in/imdeepthakkar)**
 
 ---
 
@@ -23,6 +23,8 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring-boot)
 ![IBM FileNet](https://img.shields.io/badge/ibm-filenet?style=flat&logo=IBM+FileNet)
+![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat&logo=microservices)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat&logo=postman)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
@@ -40,7 +42,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=deepthakkar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=imdeepthakkar&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
